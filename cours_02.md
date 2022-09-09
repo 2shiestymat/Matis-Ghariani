@@ -1,23 +1,22 @@
 # Cours 2
 ## Présentation des liens
-Choisissez cinq oeuvres ou compagnies multimédia. Expliquez en quoi ces dernières pourraient contribuer à votre démarche artistique? Pourquoi vous intéressent-t-elles? Comme titre, mettez un lien vers un site relié à votre oeuvre ou entreprise. Écrire 2 à 3 lignes par lien.
 
-Exemple: 
-### [Bulle](https://www.onf.ca/interactif/bulle/) 
-L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### Lien 1 
-Expliquer pourquoi vous avez choisi ce lien. 
+ 
 
-### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+### [Otherworld](https://otherworldohio.com/)
+L'oeuvre *Otherworld* m'interpelle beacoup car ces couleurs et ces formes me donne l'impression que je suis dans un rêve. J'aime beaucoup le fait que les couleurs soient diversent ainsi que l'aspect organique de l'oeuvre. 
 
-### Lien 3 
-Expliquer pourquoi vous avez choisi ce lien.  
 
-### Lien 4 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Immersive Van Gogh](https://www.vangoghexhibit.ca/)
+L'art est un des aspects qui m'intéresse le plus en multimédia, donc j'aime le fait qu'une des plus grandes oeuvre de Van Gogh soit présenté de façon intéractive.
 
-### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [AREA15](https://area15.com/) 
+L'oeuvre *AREA15* m'interpelle beaucoup car en plus de présenté une vaste exposition de lumière, l'euvre présente des chorégraphie de danse qui vont parfaitement avec les oeuvres interactives qui se déroulent autour de celles-ci.  
+
+### [DAILY TOUS LES JOURS](https://www.dailytouslesjours.com/fr) 
+Les balançoires musicales du colectif *DAILY TOUS LES JOURS* m'interpellent beaucoup car jadore la musique et le fait de ce balencer fait resortir l'enfant en moi. J'aimerais beaucoup essayer ces balançoires et composer de la musique tout en m'amusant.
+
+### [Convergence Station](https://meowwolf.com/visit/denver) 
+Le futuriste est un de mes univers préférés lorque je joue au jeux vidéos et *Convergence Station* fait parti de cet univers. J'adore le fait que cet univers suréaliste soit mêler à des décors de maisons modernes. En plus, certains décors organique me rapelle le film Star Wars.  
 
