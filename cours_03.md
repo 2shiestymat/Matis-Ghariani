@@ -2,19 +2,19 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+ 
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Dans le domaine, j'ai des intéret pour le design graphique, l'animation 2d et 3d ainsi que pour le son. 
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Concepteur de jeux, animateur ou designer graphique.
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+Ubisoft car cette entreprise a une place importante dans l'industrie des jeux vidéos. J'aime aussi certains de leurs jeux comme Rainbow Six: Siege ou Assassin's creed. 
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Je me vois en train de poursuivre une des mes multiples passions.
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+J'aimerais concepter un jeux vidéo et faire un cours-métrage en animation 2d ou 3d...
